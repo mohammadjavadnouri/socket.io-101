@@ -6,5 +6,10 @@
   "repository": "https://github.com/mohammadjavadnouri/socket.io-101.git",
   "author": "Mohammadjavad Nouri",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^3.1.0"
+  }
 }
