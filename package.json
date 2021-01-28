@@ -1,0 +1,10 @@
+{
+  "name": "socket.io-101",
+  "version": "1.0.0",
+  "description": "learn socket.io",
+  "main": "index.js",
+  "repository": "https://github.com/mohammadjavadnouri/socket.io-101.git",
+  "author": "Mohammadjavad Nouri",
+  "license": "MIT",
+  "private": false
+}
